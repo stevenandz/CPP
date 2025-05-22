@@ -1,0 +1,28 @@
+Cairo
+School
+Hospital
+College
+Paris
+Coimbatore
+Bangalore
+St. Johns Medical College
+Hill Crest Hospital
+House on Mango Street
+King's Landing
+Hobbiton
+Sietch Tabr
+Bus stand
+Railway station
+table
+chair
+blackboard
+bike
+aeroplane
+pencil
+elastic
+chalk
+dress
+pin
+needle
+tomato
+apple
