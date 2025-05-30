@@ -5,7 +5,7 @@ This is one of first projects that I made without any guidance!
 It is a simple project that uses file streams to validate input.
 While it does work for error handling (a word has to match a word in the file),
 I found that simply adding nouns and all the like into a single document
-will take ages...and is counter in intuitive. Nonethlesss, I am very proud
+will take ages...and is counter intuitive. Nonethlesss, I am very proud
 of this project.
 
 ## How It Works
