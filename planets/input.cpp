@@ -11,7 +11,7 @@ data prompt_for_data(std::string_view query) {
   return input;
 }
 
-int main(void) {
+int main() {
   std::ofstream planets("planets.txt");
   int count{8};
   if (planets.good()) {
@@ -32,4 +32,5 @@ int main(void) {
     }
     planets.close();   
   }
+  return 0;
 }
