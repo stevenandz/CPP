@@ -20,9 +20,14 @@ At that time, I had just learned about pointers, and I decided,
 experimenting, I managed to create my first program that uses
 pointers!
 
+## Running it
+This is compiled through a G++ compiler.
+1. g++ -o main main.cpp
+2. ./main
+   
 ## Improvements
 Seeing how there are many words out there for grammer that are
-too big for a file, I pondred over a better solution. This is
+too big for a file, I pondered for a better solution. This is
 outside my skill set (for now), but I hope to incorporate 
 a dynamic AI agent that functions in the background.
 It will function something like this...
