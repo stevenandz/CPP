@@ -19,7 +19,7 @@ At that time, I had just learned about pointers, and I decided,
 "Why not?" Then, the craziness began. After a few hours of 
 experimenting, I managed to create my first program that uses
 pointers! Along with that, I used a template class, for absolutely 
-no reason. 
+no reason. All for a Madlibs project. Yup.
 
 ## Running it
 This is compiled through a G++ compiler.
