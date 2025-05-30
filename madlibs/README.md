@@ -1,3 +1,5 @@
+![Overengineered by Design](https://img.shields.io/badge/Overengineered-💡%20by%20Design-brightgreen)
+
 # Madlibs: Overengineered, Brain Melt Edition
 
 ## Preface
