@@ -24,6 +24,13 @@ pointers!
 This is compiled through a G++ compiler.
 1. g++ -o main main.cpp
 2. ./main
+
+## Output
+Computers are small enough to fit into a Sietch Tabr.
+Computers can add, multiply, divide, and swim.
+People can swim too but computers do it better.
+Computers have many dogs which gives them the advantage
+over many computational tasks.
    
 ## Improvements
 Seeing how there are many words out there for grammer that are
