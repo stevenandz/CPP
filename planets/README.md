@@ -15,5 +15,12 @@ and to find the weight of that respective planet. Really cool, I think.
 1. Enter eight planets
 2. Enter weight to find your weight in that planets
 
+## Details
+Continuing my journey into pointers, I wanted to deeply understand polymorphism and 
+templates, and that is why I chose to have one basic Planet class and the rest to derive 
+from that. Sure, it probably is overkill, but curiosity knows no bounds!
+
+
+
 
 
