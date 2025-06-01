@@ -30,6 +30,12 @@ This is compiled using g++
 
    ./main
 
+## Ouput
+Enter a planet to find your weight: jupiter
+Enter weight in pounds: 170
+The surface gravity of Jupiter is: 24.79
+Your weight on Jupiter is: 430.03
+
 
 
 
