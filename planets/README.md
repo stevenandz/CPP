@@ -30,7 +30,7 @@ This is compiled using g++
 
    ./main
 
-## Ouput
+## Output
 Enter a planet to find your weight: jupiter 
 
 Enter weight in pounds: 170
@@ -38,6 +38,12 @@ Enter weight in pounds: 170
 The surface gravity of Jupiter is: 24.79
 
 Your weight on Jupiter is: 430.03
+
+## Improvments
+With there being predetermined classes, I found that it doesn't really allow for 
+user freedom, which is why, as an improvment, there could perhaps be one child class
+that is made by user input. For example, the surface area of planet could be entered
+as well as the planet itself as in the input file.
 
 
 
