@@ -11,7 +11,7 @@ and to find the weight of that respective planet. Really cool, I think.
 
 ## How it works
 1. Enter eight planets
-2. Enter weight to find your weight in that planet
+2. Enter weight to find your weight in that planets
 
 
 
