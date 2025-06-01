@@ -20,6 +20,16 @@ Continuing my journey into pointers, I wanted to deeply understand polymorphism 
 templates, and that is why I chose to have one basic Planet class and the rest to derive 
 from that. Sure, it probably is overkill, but curiosity knows no bounds!
 
+## Running it
+This is compiled using g++
+1. g++ -o input input.cpp
+
+   ./input
+
+2. g++ -o main main.cpp
+
+   ./main
+
 
 
 
